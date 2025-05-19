@@ -1,4 +1,4 @@
-# Unhinted Iosevkafixedcurly WebFont 33.2.2
+# Unhinted Iosevkafixedcurly WebFont 33.2.3
 
 ## How to use
 
